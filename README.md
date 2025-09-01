@@ -1,5 +1,5 @@
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tobi DJOLOLO | 💻 Web Developer | 🛸 Ab-calavi,Bénin 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tobi DJOLOLO | 💻 Full stack Developer | 🛸 Ab-calavi,Bénin 
 </div>
  
  <h5 align="center">
@@ -8,7 +8,7 @@
   
 <br />
 <p align="center">
-  <h3> I'm 20 years old, I have a bachelor's degree in computer science.</h3>
+  <h3> I'm 23 years old, I have a master degree in computer science.</h3>
 </p>
 
 
@@ -42,7 +42,7 @@
 -->
 <!--
 <p align="center">
-  <a href="https://dev.to/hemant">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
 </p>
