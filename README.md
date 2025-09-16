@@ -15,8 +15,7 @@
 
 <p align="center" >
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tobidjololo&theme=merko&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tobidjololo&theme=merko&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </p>
 
