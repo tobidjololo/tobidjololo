@@ -1,64 +1,48 @@
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tobi DJOLOLO | 💻 Full stack Developer | 🛸 Ab-calavi,Bénin 
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Tobi DJOLOLO | 💻 Développeur Full Stack | 📍 Abomey-Calavi, Bénin
+  </h3>
 </div>
- 
- <h5 align="center">
-   <i>⚡️Show people the problems, then show them the solutions: they will be inspired to act.⚡️</i>
+
+<h5 align="center">
+  <i>⚡️ Montrez aux gens les problèmes, puis montrez-leur les solutions : ils seront inspirés à agir. ⚡️</i>
 </h5>
-  
-<br />
-<p align="center">
-  <h3> I'm 23 years old, I have a master degree in computer science.</h3>
-</p>
-
-
-
-<p align="center" >
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tobidjololo&theme=merko&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-</p>
 
 <br />
 
-### - Languages and Tools...
-
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <h3>🎓 J’ai 23 ans et je suis titulaire d’un Master en ingénierie logicielle</h3>
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
+### 👋 À propos de moi  
+
+- 🔭 Je travaille actuellement sur des **applications web et mobiles**, notamment des projets de **digitalisation de l'agriculture au RDC**, de **plateforme de covoiturage** et de **solutions digitales pour les entreprises**.  
+- 🌱 J’apprends en ce moment la **cybersécurité** afin de renforcer mon expertise en développement sécurisé.  
+- 👯 Je cherche à collaborer sur des **projets open source** et des **solutions numériques innovantes intégrant l'Intelligence Artificielle**.  
+- 🤔 J’aimerais échanger sur les bonnes pratiques pour **mettre à l’échelle des projets d'IA en production** et intégrer une approche **Evolutive**.  
+- 💬 Vous pouvez me poser des questions sur le **développement web (Node.js, Laravel, Python)**, le **développement mobile (Flutter)** ou encore l’**entrepreneuriat digital**.  
+- 📫 Me contacter : [LinkedIn]([[https://www.linkedin.com/in/tobi-djololo](https://www.linkedin.com/in/tobi-djololo-87424a1a4/)](https://www.linkedin.com/in/tobi-djololo-87424a1a4/)) | [Email](mailto:djololotobi@gmail.com)  
+- 😄 Pronom : Il/Lui  
+- ⚡ Fun fact : J’aime allier **technologie et pédagogie** — j’ai fondé *Tobias Academy* pour partager mes connaissances tout en construisant des solutions 🚀.  
+
+
+<br />
+
+
+### 🚀 Langages & Outils  
+
 <p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Chrome" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Cloud" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="NPM" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" height="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" height="40" style="margin:6px"/>
 </p>
--->
 
-  
-<!--
-**tobidjololo/tobidjololo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
