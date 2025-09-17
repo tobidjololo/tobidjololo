@@ -11,10 +11,6 @@
 
 <br />
 
-<p align="center">
-  <h3>🎓 J’ai 23 ans et je suis titulaire d’un Master en ingénierie logicielle</h3>
-</p>
-
 ### 👋 À propos de moi  
 
 - 🔭 Je travaille actuellement sur des **applications web et mobiles**, notamment des projets de **digitalisation de l'agriculture au RDC**, de **plateforme de covoiturage** et de **solutions digitales pour les entreprises**.  
