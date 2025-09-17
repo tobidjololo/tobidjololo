@@ -1,32 +1,43 @@
-<div align="center">
+<div>
   <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    Tobi DJOLOLO | 💻 Développeur Full Stack | 📍 Abomey-Calavi, Bénin
+    Tobi DJOLOLO | 💻 Full Stack Developer | 🚀 Tech Innovator | 📍 Abomey-Calavi, Benin
   </h3>
 </div>
 
-<h5 align="center">
-  <i>⚡️ Montrez aux gens les problèmes, puis montrez-leur les solutions : ils seront inspirés à agir. ⚡️</i>
+<h5>
+  <i>⚡️ Turning complex problems into simple, scalable digital solutions. ⚡️</i>
 </h5>
 
 <br />
 
-### 👋 À propos de moi  
+<!-- Copy-paste in your Readme.md file -->
 
-- 🔭 Je travaille actuellement sur des **applications web et mobiles**, notamment des projets de **digitalisation de l'agriculture au RDC**, de **plateforme de covoiturage** et de **solutions digitales pour les entreprises**.  
-- 🌱 J’apprends en ce moment la **cybersécurité** afin de renforcer mon expertise en développement sécurisé.  
-- 👯 Je cherche à collaborer sur des **projets open source** et des **solutions numériques innovantes intégrant l'Intelligence Artificielle**.  
-- 🤔 J’aimerais échanger sur les bonnes pratiques pour **mettre à l’échelle des projets d'IA en production** et intégrer une approche **Evolutive**.  
-- 💬 Vous pouvez me poser des questions sur le **développement web (Node.js, Laravel, Python)**, le **développement mobile (Flutter)** ou encore l’**entrepreneuriat digital**.  
-- 📫 Me contacter : [LinkedIn]([[https://www.linkedin.com/in/tobi-djololo](https://www.linkedin.com/in/tobi-djololo-87424a1a4/)](https://www.linkedin.com/in/tobi-djololo-87424a1a4/)) | [Email](mailto:djololotobi@gmail.com)  
-- 😄 Pronom : Il/Lui  
-- ⚡ Fun fact : J’aime allier **technologie et pédagogie** — j’ai fondé *Tobias Academy* pour partager mes connaissances tout en construisant des solutions 🚀.  
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=62348494" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62348494&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @tobidjololo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62348494&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <br />
 
+### 👋 Who I Am  
 
-### 🚀 Langages & Outils  
+- 🔭 Currently building **web & mobile applications** that make a real impact — from **agritech platforms in DRC**, to **smart carpooling solutions**, to **digital tools for businesses**.  
+- 🌱 Expanding my expertise in **Cybersecurity** to craft **secure & resilient applications**.  
+- 👯 Open to collaborations on **open-source projects** and **AI-driven digital innovations**.  
+- 🤔 Passionate about **scaling AI to production** with a forward-thinking, **evolutionary approach**.  
+- 💬 Always happy to talk about **Web Development (Node.js, Laravel, Python)**, **Mobile Apps (Flutter)**, and **Digital Entrepreneurship**.  
+- 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/tobi-djololo-87424a1a4/) | [Email](mailto:djololotobi@gmail.com)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I combine **tech & education** — founder of *Tobias Academy*, where I share knowledge and empower others while building cutting-edge solutions 🚀.  
+
+<br />
+
+### 🚀 Tech Stack & Tools  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" height="40" style="margin:6px"/>
@@ -41,4 +52,3 @@
 </p>
 
 <br />
-
